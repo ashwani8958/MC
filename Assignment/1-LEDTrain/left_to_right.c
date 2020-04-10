@@ -1,6 +1,7 @@
 #include "main.h"
 extern unsigned char mask;
 extern int num;
+
 void left_to_right(void)
 {
 
