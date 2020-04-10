@@ -1,0 +1,1 @@
+ left_to_right.d  left_to_right.p1:  left_to_right.c main.h pic_specific.h
